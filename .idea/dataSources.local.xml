@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - movielistings@localhost" uuid="4e054780-6fd4-4a2f-8218-c7d7c096a522">
+      <secret-storage>master_key</secret-storage>
+      <introspection-scope>movielistings:public,pg_catalog,</introspection-scope>
+      <resolve-scope>movielistings:public,</resolve-scope>
+    </data-source>
+  </component>
+</project>
